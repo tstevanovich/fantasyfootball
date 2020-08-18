@@ -1,6 +1,6 @@
 <div class="container-fluid">
-  <div class="form-group w-25 p-3">
-    <input type=" text" class="form-control" (keyup)="applyFilter($event.target.value)" placeholder="Search">
+  <div class="form-group w-50 p-3">
+    <input type="text" class="form-control" (keyup)="applyFilter($event.target.value)" placeholder="Search">
   </div>
 </div>
 <table mat-table matSort [dataSource]="dataSource" matSortActive="Rank" matSortDirection="asc" class="mat-elevation-z8">
