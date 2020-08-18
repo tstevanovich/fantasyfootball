@@ -1,13 +1,11 @@
 import { NgModule } from '@angular/core';
 import { PreloadAllModules, RouterModule, Routes } from '@angular/router';
 
+import { RankingsHomeComponent } from './modules/rankings/pages/rankings-home/rankings-home.component';
+
 const routes: Routes = [
   { path: '', redirectTo: '/rankings', pathMatch: 'full' },
-  {
-    path: 'rankings',
-    loadChildren: () =>
-      import('./modules/rankings/rankings.module').then((m) => m.RankingsModule)
-  },
+  { path: 'rankings', component: RankingsHomeComponent },
   {
     path: 'draft',
     loadChildren: () =>
