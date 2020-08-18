@@ -1,0 +1,14 @@
+<nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+  <a class="navbar-brand" href="/fantasyfootball">FF Draft Guide</a>
+  <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#collapsibleNavId"
+    aria-controls="collapsibleNavId" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="collapsibleNavId">
+    <ul class="navbar-nav w-100">
+      <li class="nav-item pl-3" routerLinkActive="active" *ngFor="let nav of navLinks">
+        <a class="nav-link" [routerLink]="[nav.link]">{{ nav.label }}</a>
+      </li>
+    </ul>
+  </div>
+</nav>

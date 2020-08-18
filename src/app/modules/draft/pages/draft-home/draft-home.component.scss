@@ -1,0 +1,89 @@
+/* Tier Colors */
+$tier1: #8c1ab9;
+$tier2: #1c04f5;
+$tier3: #3498db;
+$tier4: #20aa0e;
+$tier5: #e7e418;
+$tier6: #eb8a0c;
+$tier7: #e70e0e;
+$tier8: #d329bc;
+$tier9: #8b725d;
+$tier10: #646262;
+$tier11: #000;
+
+table {
+  table-layout: fixed;
+  width: 100%; /* Important */
+}
+
+th,
+td {
+  width: 10em;
+}
+
+.tier1 {
+  color: $tier1;
+}
+.tier2 {
+  color: $tier2;
+}
+.tier3 {
+  color: $tier3;
+}
+.tier4 {
+  color: $tier4;
+}
+.tier5 {
+  color: $tier5;
+}
+.tier6 {
+  color: $tier6;
+}
+.tier7 {
+  color: $tier7;
+}
+.tier8 {
+  color: $tier8;
+}
+.tier9 {
+  color: $tier9;
+}
+.tier10 {
+  color: $tier10;
+}
+.tier11 {
+  color: $tier11;
+}
+.bg-tier1 {
+  background-color: $tier1;
+}
+.bg-tier2 {
+  background-color: $tier2;
+}
+.bg-tier3 {
+  background-color: $tier3;
+}
+.bg-tier4 {
+  background-color: $tier4;
+}
+.bg-tier5 {
+  background-color: $tier5;
+}
+.bg-tier6 {
+  background-color: $tier6;
+}
+.bg-tier7 {
+  background-color: $tier7;
+}
+.bg-tier8 {
+  background-color: $tier8;
+}
+.bg-tier9 {
+  background-color: $tier9;
+}
+.bg-tier10 {
+  background-color: $tier10;
+}
+.bg-tier11 {
+  background-color: $tier11;
+}

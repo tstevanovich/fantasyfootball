@@ -1,0 +1,34 @@
+<div class="container-fluid">
+  <div class="form-group w-25 p-3">
+    <input type=" text" class="form-control" (keyup)="applyFilter($event.target.value)" placeholder="Search">
+  </div>
+</div>
+<table mat-table matSort [dataSource]="dataSource" matSortActive="Rank" matSortDirection="asc" class="mat-elevation-z8">
+  <!-- Player Column -->
+  <ng-container matColumnDef="Player">
+    <th mat-header-cell *matHeaderCellDef mat-sort-header> Player </th>
+    <td mat-cell *matCellDef="let element"> {{element.Player}} </td>
+  </ng-container>
+
+  <!-- Position Column -->
+  <ng-container matColumnDef="Position">
+    <th mat-header-cell *matHeaderCellDef mat-sort-header> Position </th>
+    <td mat-cell *matCellDef="let element"> {{element.Position}} </td>
+  </ng-container>
+
+  <!-- Rank Column -->
+  <ng-container matColumnDef="Rank">
+    <th mat-header-cell *matHeaderCellDef mat-sort-header> Rank </th>
+    <td mat-cell *matCellDef="let element"> {{element.Rank}} </td>
+  </ng-container>
+
+  <!-- Tier Column -->
+  <ng-container matColumnDef="Tier">
+    <th mat-header-cell *matHeaderCellDef mat-sort-header> Tier </th>
+    <td mat-cell *matCellDef="let element"> {{element.Tier}} </td>
+  </ng-container>
+
+  <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+  <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+</table>
+<mat-paginator [pageSizeOptions]="[10, 20, 30]" showFirstLastButtons></mat-paginator>

@@ -1,0 +1,861 @@
+<div class="p-3">
+  <p><strong>Tiers</strong></p>
+  <p>
+    <span class="mr-1">1 <span class="bg-tier1"> &nbsp; &nbsp;</span></span>
+    <span class="mr-1">2 <span class="bg-tier2"> &nbsp; &nbsp;</span></span>
+    <span class="mr-1">3 <span class="bg-tier3"> &nbsp; &nbsp;</span></span>
+    <span class="mr-1">4 <span class="bg-tier4"> &nbsp; &nbsp;</span></span>
+    <span class="mr-1">5 <span class="bg-tier5"> &nbsp; &nbsp;</span></span>
+    <span class="mr-1">6 <span class="bg-tier6"> &nbsp; &nbsp;</span></span>
+    <span class="mr-1">7 <span class="bg-tier7"> &nbsp; &nbsp;</span></span>
+    <span class="mr-1">8 <span class="bg-tier8"> &nbsp; &nbsp;</span></span>
+    <span class="mr-1">9 <span class="bg-tier9"> &nbsp; &nbsp;</span></span>
+    <span class="mr-1">10 <span class="bg-tier10"> &nbsp; &nbsp;</span></span>
+    <span class="mr-1">11 <span class="bg-tier11"> &nbsp; &nbsp; </span></span>
+  </p>
+</div>
+
+<div class="table-responsive">
+  <table class="table table-striped table-bordered p-3">
+    <thead>
+      <tr>
+        <th scope="col">Pos</th>
+        <th scope="col">1</th>
+        <th scope="col">2</th>
+        <th scope="col">3</th>
+        <th scope="col">4</th>
+        <th scope="col">5</th>
+        <th scope="col">6</th>
+        <th scope="col">7</th>
+        <th scope="col">8</th>
+        <th scope="col">9</th>
+        <th scope="col">10</th>
+        <th scope="col">11</th>
+        <th scope="col">12</th>
+        <th scope="col">13</th>
+        <th scope="col">14</th>
+        <th scope="col">15</th>
+        <th scope="col">Undrafted</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row">QB</th>
+        <!-- Round 1 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='QB' && player.Rank >= 1 && player.Rank <= 10" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 2 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='QB' && player.Rank >= 11 && player.Rank <= 20" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 3 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='QB' && player.Rank >= 21 && player.Rank <= 30" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 4 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='QB' && player.Rank >= 31 && player.Rank <= 40" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 5 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='QB' && player.Rank >= 41 && player.Rank <= 50" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 6 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='QB' && player.Rank >= 51 && player.Rank <= 60" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 7 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='QB' && player.Rank >= 61 && player.Rank <= 70" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 8 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='QB' && player.Rank >= 71 && player.Rank <= 80" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 9 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='QB' && player.Rank >= 81 && player.Rank <= 90" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 10 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='QB' && player.Rank >= 91 && player.Rank <= 100" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 11 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='QB' && player.Rank >= 101 && player.Rank <= 110"
+              class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 12 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='QB' && player.Rank >= 111 && player.Rank <= 120"
+              class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 13 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='QB' && player.Rank >= 121 && player.Rank <= 130"
+              class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 14 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='QB' && player.Rank >= 131 && player.Rank <= 140"
+              class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 15 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='QB' && player.Rank >= 141 && player.Rank <= 150"
+              class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Undrafted -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='QB' && player.Rank >= 151" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <th scope="row">WR</th>
+        <!-- Round 1 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='WR' && player.Rank >= 1 && player.Rank <= 10" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 2 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='WR' && player.Rank >= 11 && player.Rank <= 20" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 3 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='WR' && player.Rank >= 21 && player.Rank <= 30" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 4 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='WR' && player.Rank >= 31 && player.Rank <= 40" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 5 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='WR' && player.Rank >= 41 && player.Rank <= 50" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 6 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='WR' && player.Rank >= 51 && player.Rank <= 60" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 7 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='WR' && player.Rank >= 61 && player.Rank <= 70" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 8 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='WR' && player.Rank >= 71 && player.Rank <= 80" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 9 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='WR' && player.Rank >= 81 && player.Rank <= 90" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 10 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='WR' && player.Rank >= 91 && player.Rank <= 100" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 11 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='WR' && player.Rank >= 101 && player.Rank <= 110"
+              class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 12 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='WR' && player.Rank >= 111 && player.Rank <= 120"
+              class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 13 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='WR' && player.Rank >= 121 && player.Rank <= 130"
+              class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 14 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='WR' && player.Rank >= 131 && player.Rank <= 140"
+              class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 15 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='WR' && player.Rank >= 141 && player.Rank <= 150"
+              class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Undrafted -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='WR' && player.Rank >= 151" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+      </tr>
+
+      <tr>
+        <th scope="row">RB</th>
+        <!-- Round 1 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='RB' && player.Rank >= 1 && player.Rank <= 10" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 2 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='RB' && player.Rank >= 11 && player.Rank <= 20" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 3 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='RB' && player.Rank >= 21 && player.Rank <= 30" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 4 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='RB' && player.Rank >= 31 && player.Rank <= 40" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 5 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='RB' && player.Rank >= 41 && player.Rank <= 50" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 6 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='RB' && player.Rank >= 51 && player.Rank <= 60" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 7 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='RB' && player.Rank >= 61 && player.Rank <= 70" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 8 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='RB' && player.Rank >= 71 && player.Rank <= 80" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 9 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='RB' && player.Rank >= 81 && player.Rank <= 90" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 10 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='RB' && player.Rank >= 91 && player.Rank <= 100" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 11 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='RB' && player.Rank >= 101 && player.Rank <= 110"
+              class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 12 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='RB' && player.Rank >= 111 && player.Rank <= 120"
+              class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 13 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='RB' && player.Rank >= 121 && player.Rank <= 130"
+              class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 14 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='RB' && player.Rank >= 131 && player.Rank <= 140"
+              class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 15 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='RB' && player.Rank >= 141 && player.Rank <= 150"
+              class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Undrafted -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='RB' && player.Rank >= 151" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+      </tr>
+
+      <tr>
+        <th scope="row">TE</th>
+        <!-- Round 1 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='TE' && player.Rank >= 1 && player.Rank <= 10" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 2 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='TE' && player.Rank >= 11 && player.Rank <= 20" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 3 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='TE' && player.Rank >= 21 && player.Rank <= 30" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 4 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='TE' && player.Rank >= 31 && player.Rank <= 40" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 5 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='TE' && player.Rank >= 41 && player.Rank <= 50" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 6 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='TE' && player.Rank >= 51 && player.Rank <= 60" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 7 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='TE' && player.Rank >= 61 && player.Rank <= 70" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 8 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='TE' && player.Rank >= 71 && player.Rank <= 80" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 9 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='TE' && player.Rank >= 81 && player.Rank <= 90" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 10 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='TE' && player.Rank >= 91 && player.Rank <= 100" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 11 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='TE' && player.Rank >= 101 && player.Rank <= 110"
+              class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 12 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='TE' && player.Rank >= 111 && player.Rank <= 120"
+              class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 13 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='TE' && player.Rank >= 121 && player.Rank <= 130"
+              class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 14 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='TE' && player.Rank >= 131 && player.Rank <= 140"
+              class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 15 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='TE' && player.Rank >= 141 && player.Rank <= 150"
+              class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Undrafted -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='TE' && player.Rank >= 151" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+      </tr>
+
+      <tr>
+        <th scope="row">K</th>
+        <!-- Round 1 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='K' && player.Rank >= 1 && player.Rank <= 10" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 2 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='K' && player.Rank >= 11 && player.Rank <= 20" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 3 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='K' && player.Rank >= 21 && player.Rank <= 30" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 4 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='K' && player.Rank >= 31 && player.Rank <= 40" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 5 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='K' && player.Rank >= 41 && player.Rank <= 50" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 6 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='K' && player.Rank >= 51 && player.Rank <= 60" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 7 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='K' && player.Rank >= 61 && player.Rank <= 70" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 8 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='K' && player.Rank >= 71 && player.Rank <= 80" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 9 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='K' && player.Rank >= 81 && player.Rank <= 90" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 10 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='K' && player.Rank >= 91 && player.Rank <= 100" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 11 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='K' && player.Rank >= 101 && player.Rank <= 110" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 12 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='K' && player.Rank >= 111 && player.Rank <= 120" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 13 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='K' && player.Rank >= 121 && player.Rank <= 130" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 14 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='K' && player.Rank >= 131 && player.Rank <= 140" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 15 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='K' && player.Rank >= 141 && player.Rank <= 150" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Undrafted -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='K' && player.Rank >= 151" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+      </tr>
+
+      <tr>
+        <th scope="row">DEF</th>
+        <!-- Round 1 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='DEF' && player.Rank >= 1 && player.Rank <= 10" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 2 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='DEF' && player.Rank >= 11 && player.Rank <= 20" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 3 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='DEF' && player.Rank >= 21 && player.Rank <= 30" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 4 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='DEF' && player.Rank >= 31 && player.Rank <= 40" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 5 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='DEF' && player.Rank >= 41 && player.Rank <= 50" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 6 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='DEF' && player.Rank >= 51 && player.Rank <= 60" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 7 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='DEF' && player.Rank >= 61 && player.Rank <= 70" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 8 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='DEF' && player.Rank >= 71 && player.Rank <= 80" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 9 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='DEF' && player.Rank >= 81 && player.Rank <= 90" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 10 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='DEF' && player.Rank >= 91 && player.Rank <= 100"
+              class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 11 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='DEF' && player.Rank >= 101 && player.Rank <= 110"
+              class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 12 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='DEF' && player.Rank >= 111 && player.Rank <= 120"
+              class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 13 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='DEF' && player.Rank >= 121 && player.Rank <= 130"
+              class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 14 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='DEF' && player.Rank >= 131 && player.Rank <= 140"
+              class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Round 15 -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='DEF' && player.Rank >= 141 && player.Rank <= 150"
+              class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+        <!-- Undrafted -->
+        <td>
+          <div *ngFor="let player of playerList">
+            <span *ngIf="player.Position==='DEF' && player.Rank >= 151" class="tier{{player.Tier}}">
+              {{player.Player}}
+            </span>
+          </div>
+        </td>
+      </tr>
+
+    </tbody>
+  </table>
+</div>
