@@ -10,7 +10,7 @@
     "eslint:recommended",
     "plugin:@typescript-eslint/eslint-recommended",
     "plugin:@typescript-eslint/recommended",
-    "prettier/@typescript-eslint",
+    "prettier",
     "plugin:prettier/recommended"
   ],
   "parserOptions": {
@@ -22,6 +22,6 @@
     "@typescript-eslint/explicit-function-return-type": "off",
     "@typescript-eslint/no-empty-function": "off",
     "@typescript-eslint/no-var-requires": 0,
-    "simple-import-sort/sort": "error"
+    "simple-import-sort/imports": "error"
   }
 }
