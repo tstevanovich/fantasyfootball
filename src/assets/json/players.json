@@ -30,28 +30,28 @@
     "Tier": "2"
   },
   {
-    "Player": "Jonathan Taylor",
-    "Position": "RB",
-    "Rank": "6",
-    "Tier": "3"
-  },
-  {
     "Player": "Nick Chubb",
     "Position": "RB",
-    "Rank": "7",
+    "Rank": "6",
     "Tier": "2"
   },
   {
     "Player": "Saquon Barkley",
     "Position": "RB",
-    "Rank": "8",
+    "Rank": "7",
     "Tier": "2"
   },
   {
     "Player": "Tyreek Hill",
     "Position": "WR",
-    "Rank": "9",
+    "Rank": "8",
     "Tier": "1"
+  },
+  {
+    "Player": "Jonathan Taylor",
+    "Position": "RB",
+    "Rank": "9",
+    "Tier": "2"
   },
   {
     "Player": "Aaron Jones",
@@ -60,19 +60,19 @@
     "Tier": "2"
   },
   {
-    "Player": "Stefon Diggs",
-    "Position": "WR",
+    "Player": "Travis Kelce",
+    "Position": "TE",
     "Rank": "11",
     "Tier": "1"
   },
   {
-    "Player": "Travis Kelce",
-    "Position": "TE",
+    "Player": "DaVante Adams",
+    "Position": "WR",
     "Rank": "12",
     "Tier": "1"
   },
   {
-    "Player": "DaVante Adams",
+    "Player": "Stefon Diggs",
     "Position": "WR",
     "Rank": "13",
     "Tier": "1"
@@ -90,94 +90,94 @@
     "Tier": "2"
   },
   {
-    "Player": "Antonio Gibson",
+    "Player": "Najee Harris",
     "Position": "RB",
     "Rank": "16",
     "Tier": "3"
   },
   {
-    "Player": "Calvin Ridley",
-    "Position": "WR",
+    "Player": "Antonio Gibson",
+    "Position": "RB",
     "Rank": "17",
-    "Tier": "2"
+    "Tier": "3"
   },
   {
-    "Player": "DeAndre Hopkins",
+    "Player": "Calvin Ridley",
     "Position": "WR",
     "Rank": "18",
     "Tier": "2"
   },
   {
-    "Player": "Cam Akers",
-    "Position": "RB",
+    "Player": "DeAndre Hopkins",
+    "Position": "WR",
     "Rank": "19",
-    "Tier": "10"
-  },
-  {
-    "Player": "Najee Harris",
-    "Position": "RB",
-    "Rank": "20",
-    "Tier": "3"
+    "Tier": "2"
   },
   {
     "Player": "Justin Jefferson",
+    "Position": "WR",
+    "Rank": "20",
+    "Tier": "2"
+  },
+  {
+    "Player": "DK Metcalf",
     "Position": "WR",
     "Rank": "21",
     "Tier": "2"
   },
   {
-    "Player": "Joe Mixon",
-    "Position": "RB",
-    "Rank": "22",
-    "Tier": "3"
-  },
-  {
-    "Player": "DK Metcalf",
-    "Position": "WR",
-    "Rank": "23",
-    "Tier": "2"
-  },
-  {
     "Player": "AJ Brown",
     "Position": "WR",
-    "Rank": "24",
+    "Rank": "22",
     "Tier": "2"
+  },
+  {
+    "Player": "Joe Mixon",
+    "Position": "RB",
+    "Rank": "23",
+    "Tier": "3"
   },
   {
     "Player": "Clyde Edwards-Helaire",
     "Position": "RB",
-    "Rank": "25",
+    "Rank": "24",
     "Tier": "3"
+  },
+  {
+    "Player": "Cam Akers",
+    "Position": "RB",
+    "Rank": "25",
+    "Tier": "10"
   },
   {
     "Player": "JK Dobbins",
     "Position": "RB",
     "Rank": "26",
-    "Tier": "3"
+    "Tier": "4"
   },
   {
-    "Player": "George Kittle",
+    "Player": "Darren Waller",
     "Position": "TE",
     "Rank": "27",
     "Tier": "1"
   },
   {
-    "Player": "Josh Allen",
-    "Position": "QB",
+    "Player": "Terry McLaurin",
+    "Position": "WR",
     "Rank": "28",
-    "Tier": "1"
+    "Tier": "3"
   },
   {
-    "Player": "Darren Waller",
+    "Player": "George Kittle",
     "Position": "TE",
     "Rank": "29",
     "Tier": "1"
   },
   {
-    "Player": "Terry McLaurin",
-    "Position": "WR",
+    "Player": "Josh Allen",
+    "Position": "QB",
     "Rank": "30",
-    "Tier": "3"
+    "Tier": "1"
   },
   {
     "Player": "Allen Robinson",
@@ -186,58 +186,58 @@
     "Tier": "3"
   },
   {
-    "Player": "David Montgomery",
-    "Position": "RB",
-    "Rank": "32",
-    "Tier": "3"
-  },
-  {
     "Player": "Keenan Allen",
     "Position": "WR",
-    "Rank": "33",
+    "Rank": "32",
     "Tier": "2"
   },
   {
-    "Player": "Mike Evans",
-    "Position": "WR",
-    "Rank": "34",
-    "Tier": "3"
-  },
-  {
-    "Player": "Chris Godwin",
-    "Position": "WR",
-    "Rank": "35",
-    "Tier": "3"
-  },
-  {
-    "Player": "Miles Sanders",
+    "Player": "David Montgomery",
     "Position": "RB",
-    "Rank": "36",
+    "Rank": "33",
     "Tier": "4"
   },
   {
     "Player": "Chris Carson",
     "Position": "RB",
-    "Rank": "37",
-    "Tier": "3"
-  },
-  {
-    "Player": "D'Andre Swift",
-    "Position": "RB",
-    "Rank": "38",
-    "Tier": "3"
-  },
-  {
-    "Player": "Josh Jacobs",
-    "Position": "RB",
-    "Rank": "39",
+    "Rank": "34",
     "Tier": "4"
   },
   {
     "Player": "CeeDee Lamb",
     "Position": "WR",
-    "Rank": "40",
+    "Rank": "35",
     "Tier": "3"
+  },
+  {
+    "Player": "Chris Godwin",
+    "Position": "WR",
+    "Rank": "36",
+    "Tier": "3"
+  },
+  {
+    "Player": "Mike Evans",
+    "Position": "WR",
+    "Rank": "37",
+    "Tier": "3"
+  },
+  {
+    "Player": "Josh Jacobs",
+    "Position": "RB",
+    "Rank": "38",
+    "Tier": "4"
+  },
+  {
+    "Player": "Miles Sanders",
+    "Position": "RB",
+    "Rank": "39",
+    "Tier": "4"
+  },
+  {
+    "Player": "D'Andre Swift",
+    "Position": "RB",
+    "Rank": "40",
+    "Tier": "4"
   },
   {
     "Player": "Lamar Jackson",
@@ -246,64 +246,64 @@
     "Tier": "1"
   },
   {
-    "Player": "Kyler Murray",
-    "Position": "QB",
+    "Player": "Darrell Henderson",
+    "Position": "RB",
     "Rank": "42",
-    "Tier": "1"
+    "Tier": "4"
   },
   {
-    "Player": "Julio Jones",
+    "Player": "Robert Woods",
     "Position": "WR",
     "Rank": "43",
     "Tier": "3"
   },
   {
-    "Player": "Amari Cooper",
-    "Position": "WR",
+    "Player": "Kyler Murray",
+    "Position": "QB",
     "Rank": "44",
-    "Tier": "3"
+    "Tier": "1"
   },
   {
-    "Player": "Robert Woods",
+    "Player": "Amari Cooper",
     "Position": "WR",
     "Rank": "45",
     "Tier": "3"
   },
   {
-    "Player": "Darrell Henderson",
-    "Position": "RB",
+    "Player": "Cooper Kupp",
+    "Position": "WR",
     "Rank": "46",
     "Tier": "4"
   },
   {
-    "Player": "Cooper Kupp",
+    "Player": "Julio Jones",
     "Position": "WR",
     "Rank": "47",
-    "Tier": "4"
+    "Tier": "3"
   },
   {
-    "Player": "Mark Andrews",
+    "Player": "TJ Hockenson",
     "Position": "TE",
     "Rank": "48",
     "Tier": "2"
   },
   {
-    "Player": "TJ Hockenson",
+    "Player": "Kyle Pitts",
     "Position": "TE",
     "Rank": "49",
     "Tier": "2"
   },
   {
-    "Player": "Adam Thielen",
-    "Position": "WR",
+    "Player": "Mark Andrews",
+    "Position": "TE",
     "Rank": "50",
-    "Tier": "4"
+    "Tier": "2"
   },
   {
-    "Player": "Kyle Pitts",
-    "Position": "TE",
+    "Player": "Adam Thielen",
+    "Position": "WR",
     "Rank": "51",
-    "Tier": "2"
+    "Tier": "4"
   },
   {
     "Player": "Dak Prescott",
@@ -312,26 +312,26 @@
     "Tier": "2"
   },
   {
-    "Player": "Myles Gaskin",
-    "Position": "RB",
+    "Player": "Tyler Lockett",
+    "Position": "WR",
     "Rank": "53",
+    "Tier": "4"
+  },
+  {
+    "Player": "DJ Moore",
+    "Position": "WR",
+    "Rank": "54",
     "Tier": "4"
   },
   {
     "Player": "Russell Wilson",
     "Position": "QB",
-    "Rank": "54",
+    "Rank": "55",
     "Tier": "2"
   },
   {
-    "Player": "DJ Moore",
-    "Position": "WR",
-    "Rank": "55",
-    "Tier": "4"
-  },
-  {
-    "Player": "Tyler Lockett",
-    "Position": "WR",
+    "Player": "Myles Gaskin",
+    "Position": "RB",
     "Rank": "56",
     "Tier": "4"
   },
@@ -342,22 +342,22 @@
     "Tier": "4"
   },
   {
-    "Player": "Justin Herbert",
-    "Position": "QB",
+    "Player": "Travis Etienne",
+    "Position": "RB",
     "Rank": "58",
-    "Tier": "2"
+    "Tier": "4"
   },
   {
-    "Player": "Aaron Rodgers",
+    "Player": "Justin Herbert",
     "Position": "QB",
     "Rank": "59",
     "Tier": "2"
   },
   {
-    "Player": "Travis Etienne",
-    "Position": "RB",
+    "Player": "Aaron Rodgers",
+    "Position": "QB",
     "Rank": "60",
-    "Tier": "4"
+    "Tier": "2"
   },
   {
     "Player": "Diontae Johnson",
@@ -366,46 +366,46 @@
     "Tier": "4"
   },
   {
-    "Player": "Mike Davis",
-    "Position": "RB",
-    "Rank": "62",
-    "Tier": "4"
-  },
-  {
     "Player": "Brandon Aiyuk",
     "Position": "WR",
-    "Rank": "63",
+    "Rank": "62",
     "Tier": "4"
   },
   {
     "Player": "Tom Brady",
     "Position": "QB",
-    "Rank": "64",
+    "Rank": "63",
     "Tier": "3"
   },
   {
-    "Player": "Chase Edmonds",
+    "Player": "Mike Davis",
     "Position": "RB",
-    "Rank": "65",
-    "Tier": "5"
+    "Rank": "64",
+    "Tier": "4"
   },
   {
-    "Player": "Dallas Goedert",
+    "Player": "Tyler Higbee",
     "Position": "TE",
-    "Rank": "66",
-    "Tier": "2"
+    "Rank": "65",
+    "Tier": "3"
   },
   {
     "Player": "LAR",
     "Position": "DEF",
-    "Rank": "67",
+    "Rank": "66",
     "Tier": "1"
   },
   {
-    "Player": "James Robinson",
+    "Player": "Chase Edmonds",
     "Position": "RB",
-    "Rank": "68",
+    "Rank": "67",
     "Tier": "5"
+  },
+  {
+    "Player": "Odell Beckham",
+    "Position": "WR",
+    "Rank": "68",
+    "Tier": "4"
   },
   {
     "Player": "Ronald Jones",
@@ -420,160 +420,160 @@
     "Tier": "3"
   },
   {
-    "Player": "Tyler Higbee",
-    "Position": "TE",
+    "Player": "James Robinson",
+    "Position": "RB",
     "Rank": "71",
-    "Tier": "3"
-  },
-  {
-    "Player": "Kenny Golladay",
-    "Position": "WR",
-    "Rank": "72",
-    "Tier": "4"
-  },
-  {
-    "Player": "Odell Beckham",
-    "Position": "WR",
-    "Rank": "73",
-    "Tier": "5"
-  },
-  {
-    "Player": "Michael Thomas",
-    "Position": "WR",
-    "Rank": "74",
-    "Tier": "6"
-  },
-  {
-    "Player": "Noah Fant",
-    "Position": "TE",
-    "Rank": "75",
-    "Tier": "2"
-  },
-  {
-    "Player": "WAS",
-    "Position": "DEF",
-    "Rank": "76",
-    "Tier": "1"
-  },
-  {
-    "Player": "Chase Claypool",
-    "Position": "WR",
-    "Rank": "77",
     "Tier": "5"
   },
   {
     "Player": "Tee Higgins",
     "Position": "WR",
-    "Rank": "78",
+    "Rank": "72",
+    "Tier": "4"
+  },
+  {
+    "Player": "WAS",
+    "Position": "DEF",
+    "Rank": "73",
+    "Tier": "1"
+  },
+  {
+    "Player": "Chase Claypool",
+    "Position": "WR",
+    "Rank": "74",
+    "Tier": "5"
+  },
+  {
+    "Player": "Kenny Golladay",
+    "Position": "WR",
+    "Rank": "75",
     "Tier": "4"
   },
   {
     "Player": "Justin Tucker",
     "Position": "K",
-    "Rank": "79",
+    "Rank": "76",
     "Tier": "1"
   },
   {
     "Player": "Ja'Mar Chase",
     "Position": "WR",
-    "Rank": "80",
+    "Rank": "77",
     "Tier": "4"
+  },
+  {
+    "Player": "Dallas Goedert",
+    "Position": "TE",
+    "Rank": "78",
+    "Tier": "3"
+  },
+  {
+    "Player": "Damien Harris",
+    "Position": "RB",
+    "Rank": "79",
+    "Tier": "5"
   },
   {
     "Player": "Harrison Butker",
     "Position": "K",
-    "Rank": "81",
+    "Rank": "80",
     "Tier": "1"
   },
   {
     "Player": "Javonte Williams",
     "Position": "RB",
-    "Rank": "82",
+    "Rank": "81",
     "Tier": "5"
   },
   {
     "Player": "PIT",
     "Position": "DEF",
-    "Rank": "83",
+    "Rank": "82",
     "Tier": "1"
   },
   {
-    "Player": "Deebo Samuel",
-    "Position": "WR",
-    "Rank": "84",
+    "Player": "Raheem Mostert",
+    "Position": "RB",
+    "Rank": "83",
     "Tier": "5"
   },
   {
     "Player": "TB",
     "Position": "DEF",
+    "Rank": "84",
+    "Tier": "2"
+  },
+  {
+    "Player": "Noah Fant",
+    "Position": "TE",
     "Rank": "85",
     "Tier": "2"
   },
   {
-    "Player": "Damien Harris",
-    "Position": "RB",
+    "Player": "Robert Tonyan",
+    "Position": "TE",
     "Rank": "86",
-    "Tier": "5"
+    "Tier": "3"
   },
   {
-    "Player": "Leonard Fournette",
+    "Player": "Trey Sermon",
     "Position": "RB",
     "Rank": "87",
     "Tier": "5"
   },
   {
-    "Player": "Raheem Mostert",
-    "Position": "RB",
+    "Player": "Robby Anderson",
+    "Position": "WR",
     "Rank": "88",
+    "Tier": "5"
+  },
+  {
+    "Player": "Deebo Samuel",
+    "Position": "WR",
+    "Rank": "89",
+    "Tier": "5"
+  },
+  {
+    "Player": "Michael Thomas",
+    "Position": "WR",
+    "Rank": "90",
+    "Tier": "6"
+  },
+  {
+    "Player": "Leonard Fournette",
+    "Position": "RB",
+    "Rank": "91",
+    "Tier": "5"
+  },
+  {
+    "Player": "JuJu Smith-Schuster",
+    "Position": "WR",
+    "Rank": "92",
     "Tier": "5"
   },
   {
     "Player": "BAL",
     "Position": "DEF",
-    "Rank": "89",
+    "Rank": "93",
     "Tier": "1"
-  },
-  {
-    "Player": "JuJu Smith-Schuster",
-    "Position": "WR",
-    "Rank": "90",
-    "Tier": "5"
   },
   {
     "Player": "Ryan Tannehill",
     "Position": "QB",
-    "Rank": "91",
+    "Rank": "94",
     "Tier": "3"
   },
   {
-    "Player": "Melvin Gordon",
-    "Position": "RB",
-    "Rank": "92",
-    "Tier": "5"
-  },
-  {
-    "Player": "Trey Sermon",
-    "Position": "RB",
-    "Rank": "93",
-    "Tier": "5"
-  },
-  {
-    "Player": "Robby Anderson",
-    "Position": "WR",
-    "Rank": "94",
-    "Tier": "5"
+    "Player": "Logan Thomas",
+    "Position": "TE",
+    "Rank": "95",
+    "Tier": "2"
   },
   {
     "Player": "Younghoe Koo",
     "Position": "K",
-    "Rank": "95",
-    "Tier": "1"
-  },
-  {
-    "Player": "Matthew Stafford",
-    "Position": "QB",
     "Rank": "96",
-    "Tier": "3"
+    "Tier": "1"
   },
   {
     "Player": "SF",
@@ -582,25 +582,25 @@
     "Tier": "2"
   },
   {
-    "Player": "Courtland Sutton",
-    "Position": "WR",
+    "Player": "Melvin Gordon",
+    "Position": "RB",
     "Rank": "98",
     "Tier": "5"
   },
   {
-    "Player": "Logan Thomas",
-    "Position": "TE",
+    "Player": "Matthew Stafford",
+    "Position": "QB",
     "Rank": "99",
     "Tier": "3"
   },
   {
-    "Player": "Robert Tonyan",
-    "Position": "TE",
+    "Player": "Jerry Jeudy",
+    "Position": "WR",
     "Rank": "100",
-    "Tier": "3"
+    "Tier": "5"
   },
   {
-    "Player": "DJ Chark",
+    "Player": "Courtland Sutton",
     "Position": "WR",
     "Rank": "101",
     "Tier": "5"
@@ -609,11 +609,11 @@
     "Player": "David Johnson",
     "Position": "RB",
     "Rank": "102",
-    "Tier": "5"
+    "Tier": "6"
   },
   {
-    "Player": "Jerry Jeudy",
-    "Position": "WR",
+    "Player": "Michael Carter",
+    "Position": "RB",
     "Rank": "103",
     "Tier": "5"
   },
@@ -624,43 +624,43 @@
     "Tier": "5"
   },
   {
-    "Player": "Michael Carter",
-    "Position": "RB",
+    "Player": "DJ Chark",
+    "Position": "WR",
     "Rank": "105",
-    "Tier": "5"
-  },
-  {
-    "Player": "Greg Zuerlein",
-    "Position": "K",
-    "Rank": "106",
-    "Tier": "2"
-  },
-  {
-    "Player": "Rob Gronkowski",
-    "Position": "TE",
-    "Rank": "107",
-    "Tier": "4"
-  },
-  {
-    "Player": "Joe Burrow",
-    "Position": "QB",
-    "Rank": "108",
-    "Tier": "3"
-  },
-  {
-    "Player": "AJ Dillon",
-    "Position": "RB",
-    "Rank": "109",
     "Tier": "5"
   },
   {
     "Player": "Tyler Bass",
     "Position": "K",
-    "Rank": "110",
+    "Rank": "106",
     "Tier": "2"
   },
   {
-    "Player": "Brandon Cooks",
+    "Player": "Greg Zuerlein",
+    "Position": "K",
+    "Rank": "107",
+    "Tier": "1"
+  },
+  {
+    "Player": "Tyler Boyd",
+    "Position": "WR",
+    "Rank": "108",
+    "Tier": "5"
+  },
+  {
+    "Player": "Rob Gronkowski",
+    "Position": "TE",
+    "Rank": "109",
+    "Tier": "4"
+  },
+  {
+    "Player": "AJ Dillon",
+    "Position": "RB",
+    "Rank": "110",
+    "Tier": "6"
+  },
+  {
+    "Player": "Antonio Brown",
     "Position": "WR",
     "Rank": "111",
     "Tier": "5"
@@ -672,118 +672,118 @@
     "Tier": "5"
   },
   {
-    "Player": "Mike Gesicki",
-    "Position": "TE",
+    "Player": "Brandon Cooks",
+    "Position": "WR",
     "Rank": "113",
-    "Tier": "3"
+    "Tier": "5"
   },
   {
     "Player": "Will Lutz",
     "Position": "K",
     "Rank": "114",
+    "Tier": "4"
+  },
+  {
+    "Player": "Joe Burrow",
+    "Position": "QB",
+    "Rank": "115",
     "Tier": "3"
   },
   {
-    "Player": "Tyler Boyd",
-    "Position": "WR",
-    "Rank": "115",
-    "Tier": "5"
-  },
-  {
-    "Player": "Kenyan Drake",
-    "Position": "RB",
+    "Player": "Mike Gesicki",
+    "Position": "TE",
     "Rank": "116",
-    "Tier": "5"
+    "Tier": "3"
   },
   {
-    "Player": "Will Fuller",
+    "Player": "DeVonta Smith",
     "Position": "WR",
     "Rank": "117",
     "Tier": "5"
   },
   {
-    "Player": "Antonio Brown",
-    "Position": "WR",
+    "Player": "KC",
+    "Position": "DEF",
     "Rank": "118",
+    "Tier": "3"
+  },
+  {
+    "Player": "Jason Sanders",
+    "Position": "K",
+    "Rank": "119",
+    "Tier": "2"
+  },
+  {
+    "Player": "Kenyan Drake",
+    "Position": "RB",
+    "Rank": "120",
     "Tier": "6"
   },
   {
-    "Player": "DeVonta Smith",
+    "Player": "Will Fuller",
     "Position": "WR",
-    "Rank": "119",
+    "Rank": "121",
     "Tier": "5"
   },
   {
-    "Player": "IND",
+    "Player": "Gus Edwards",
+    "Position": "RB",
+    "Rank": "122",
+    "Tier": "6"
+  },
+  {
+    "Player": "CLE",
     "Position": "DEF",
-    "Rank": "120",
-    "Tier": "2"
+    "Rank": "123",
+    "Tier": "3"
   },
   {
     "Player": "Jarvis Landry",
     "Position": "WR",
-    "Rank": "121",
+    "Rank": "124",
     "Tier": "6"
   },
   {
     "Player": "Curtis Samuel",
     "Position": "WR",
-    "Rank": "122",
-    "Tier": "6"
-  },
-  {
-    "Player": "Jason Sanders",
-    "Position": "K",
-    "Rank": "123",
-    "Tier": "2"
-  },
-  {
-    "Player": "CLE",
-    "Position": "DEF",
-    "Rank": "124",
-    "Tier": "3"
-  },
-  {
-    "Player": "Gus Edwards",
-    "Position": "RB",
     "Rank": "125",
-    "Tier": "5"
-  },
-  {
-    "Player": "KC",
-    "Position": "DEF",
-    "Rank": "126",
-    "Tier": "3"
+    "Tier": "6"
   },
   {
     "Player": "Irv Smith",
     "Position": "TE",
+    "Rank": "126",
+    "Tier": "3"
+  },
+  {
+    "Player": "Trevor Lawrence",
+    "Position": "QB",
     "Rank": "127",
     "Tier": "3"
   },
   {
-    "Player": "Ben Roethlisberger",
+    "Player": "Cam Newton",
     "Position": "QB",
     "Rank": "128",
     "Tier": "4"
   },
   {
-    "Player": "Matt Ryan",
-    "Position": "QB",
+    "Player": "Michael Gallup",
+    "Position": "WR",
     "Rank": "129",
-    "Tier": "3"
+    "Tier": "6"
   },
   {
-    "Player": "Jared Goff",
+    "Player": "Ben Roethlisberger",
     "Position": "QB",
     "Rank": "130",
-    "Tier": "5"
+    "Tier": "4"
   },
   {
-    "Player": "Trevor Lawrence",
-    "Position": "QB",
+    "Player": "Mike Williams",
+    "Position": "WR",
     "Rank": "131",
-    "Tier": "3"
+    "Tier": "6"
   },
   {
     "Player": "Eric Ebron",
@@ -792,298 +792,334 @@
     "Tier": "4"
   },
   {
-    "Player": "Hunter Henry",
+    "Player": "Zach Ertz",
     "Position": "TE",
     "Rank": "133",
     "Tier": "4"
   },
   {
-    "Player": "Baker Mayfield",
+    "Player": "Jared Goff",
     "Position": "QB",
     "Rank": "134",
     "Tier": "4"
   },
   {
-    "Player": "Mark Ingram",
+    "Player": "Devin Singletary",
     "Position": "RB",
     "Rank": "135",
-    "Tier": "7"
+    "Tier": "6"
   },
   {
     "Player": "Randall Cobb",
     "Position": "WR",
     "Rank": "136",
-    "Tier": "8"
-  },
-  {
-    "Player": "Tony Pollard",
-    "Position": "RB",
-    "Rank": "137",
-    "Tier": "6"
-  },
-  {
-    "Player": "Devin Singletary",
-    "Position": "RB",
-    "Rank": "138",
-    "Tier": "6"
+    "Tier": "7"
   },
   {
     "Player": "Corey Davis",
     "Position": "WR",
-    "Rank": "139",
+    "Rank": "137",
     "Tier": "6"
   },
   {
-    "Player": "Cam Newton",
+    "Player": "Matt Ryan",
     "Position": "QB",
-    "Rank": "140",
+    "Rank": "138",
+    "Tier": "3"
+  },
+  {
+    "Player": "Taysom Hill",
+    "Position": "QB",
+    "Rank": "139",
     "Tier": "5"
   },
   {
-    "Player": "Zach Ertz",
-    "Position": "TE",
+    "Player": "Mark Ingram",
+    "Position": "RB",
+    "Rank": "140",
+    "Tier": "7"
+  },
+  {
+    "Player": "Baker Mayfield",
+    "Position": "QB",
     "Rank": "141",
     "Tier": "4"
   },
   {
-    "Player": "Nyheim Hines",
-    "Position": "RB",
+    "Player": "IND",
+    "Position": "DEF",
     "Rank": "142",
-    "Tier": "6"
+    "Tier": "2"
   },
   {
-    "Player": "Mike Williams",
-    "Position": "WR",
+    "Player": "Kirk Cousins",
+    "Position": "QB",
     "Rank": "143",
-    "Tier": "6"
+    "Tier": "4"
   },
   {
-    "Player": "James White",
-    "Position": "RB",
+    "Player": "Ryan Succop",
+    "Position": "K",
     "Rank": "144",
-    "Tier": "6"
+    "Tier": "2"
+  },
+  {
+    "Player": "BUF",
+    "Position": "DEF",
+    "Rank": "145",
+    "Tier": "3"
   },
   {
     "Player": "Jaylen Waddle",
-    "Position": "WR",
-    "Rank": "145",
-    "Tier": "6"
-  },
-  {
-    "Player": "Michael Gallup",
     "Position": "WR",
     "Rank": "146",
     "Tier": "6"
   },
   {
-    "Player": "DAL",
-    "Position": "DEF",
+    "Player": "Sony Michel",
+    "Position": "RB",
     "Rank": "147",
-    "Tier": "5"
+    "Tier": "7"
   },
   {
-    "Player": "Nick Folk",
-    "Position": "K",
+    "Player": "Emmanuel Sanders",
+    "Position": "WR",
     "Rank": "148",
-    "Tier": "5"
+    "Tier": "7"
   },
   {
-    "Player": "Cole Beasley",
+    "Player": "AJ Green",
     "Position": "WR",
     "Rank": "149",
     "Tier": "7"
   },
   {
-    "Player": "Marquise Brown",
-    "Position": "WR",
+    "Player": "DAL",
+    "Position": "DEF",
     "Rank": "150",
-    "Tier": "6"
+    "Tier": "5"
   },
   {
-    "Player": "Kirk Cousins",
-    "Position": "QB",
+    "Player": "Nick Folk",
+    "Position": "K",
     "Rank": "151",
-    "Tier": "3"
+    "Tier": "5"
   },
   {
-    "Player": "Tayson Hill",
-    "Position": "QB",
+    "Player": "James White",
+    "Position": "RB",
     "Rank": "152",
-    "Tier": "5"
-  },
-  {
-    "Player": "AJ Green",
-    "Position": "WR",
-    "Rank": "153",
-    "Tier": "8"
-  },
-  {
-    "Player": "Tua Tagovalloa",
-    "Position": "QB",
-    "Rank": "154",
-    "Tier": "4"
-  },
-  {
-    "Player": "Deshaun Watson",
-    "Position": "QB",
-    "Rank": "155",
-    "Tier": "5"
+    "Tier": "6"
   },
   {
     "Player": "Jamal Williams",
     "Position": "RB",
-    "Rank": "156",
+    "Rank": "153",
     "Tier": "6"
   },
   {
-    "Player": "Henry Ruggs",
-    "Position": "WR",
-    "Rank": "157",
-    "Tier": "7"
-  },
-  {
-    "Player": "Marlon Mack",
+    "Player": "Tony Pollard",
     "Position": "RB",
-    "Rank": "158",
-    "Tier": "7"
+    "Rank": "154",
+    "Tier": "6"
   },
   {
-    "Player": "Zach Wilson",
-    "Position": "QB",
-    "Rank": "159",
-    "Tier": "5"
+    "Player": "Cole Beasley",
+    "Position": "WR",
+    "Rank": "155",
+    "Tier": "7"
   },
   {
     "Player": "Laviska Shenault",
     "Position": "WR",
-    "Rank": "160",
-    "Tier": "6"
-  },
-  {
-    "Player": "Robbie Gould",
-    "Position": "K",
-    "Rank": "161",
-    "Tier": "3"
-  },
-  {
-    "Player": "BUF",
-    "Position": "DEF",
-    "Rank": "162",
-    "Tier": "3"
-  },
-  {
-    "Player": "Ryan Succop",
-    "Position": "K",
-    "Rank": "163",
-    "Tier": "2"
-  },
-  {
-    "Player": "Chris Boswell",
-    "Position": "K",
-    "Rank": "164",
-    "Tier": "4"
-  },
-  {
-    "Player": "Derek Carr",
-    "Position": "QB",
-    "Rank": "165",
-    "Tier": "4"
-  },
-  {
-    "Player": "John Brown",
-    "Position": "WR",
-    "Rank": "166",
-    "Tier": "7"
-  },
-  {
-    "Player": "Sammy Watkins",
-    "Position": "WR",
-    "Rank": "167",
-    "Tier": "8"
-  },
-  {
-    "Player": "Emmanuel Sanders",
-    "Position": "WR",
-    "Rank": "168",
-    "Tier": "7"
-  },
-  {
-    "Player": "Darnell Mooney",
-    "Position": "WR",
-    "Rank": "169",
-    "Tier": "6"
-  },
-  {
-    "Player": "Blake Jarwin",
-    "Position": "TE",
-    "Rank": "170",
-    "Tier": "4"
-  },
-  {
-    "Player": "Justin Fields",
-    "Position": "QB",
-    "Rank": "171",
-    "Tier": "4"
-  },
-  {
-    "Player": "Sam Darnold",
-    "Position": "QB",
-    "Rank": "172",
-    "Tier": "4"
-  },
-  {
-    "Player": "Darrel Williams",
-    "Position": "RB",
-    "Rank": "173",
-    "Tier": "7"
-  },
-  {
-    "Player": "Mecole Hardman",
-    "Position": "WR",
-    "Rank": "174",
-    "Tier": "7"
-  },
-  {
-    "Player": "Marvin Jones",
-    "Position": "WR",
-    "Rank": "175",
+    "Rank": "156",
     "Tier": "6"
   },
   {
     "Player": "Rodrigo Blankenship",
     "Position": "K",
-    "Rank": "176",
+    "Rank": "157",
     "Tier": "2"
   },
   {
-    "Player": "Latavius Murray",
-    "Position": "RB",
-    "Rank": "177",
-    "Tier": "6"
-  },
-  {
-    "Player": "SEA",
-    "Position": "DEF",
-    "Rank": "178",
+    "Player": "Zach Wilson",
+    "Position": "QB",
+    "Rank": "158",
     "Tier": "4"
   },
   {
-    "Player": "TY Hilton",
-    "Position": "WR",
-    "Rank": "179",
+    "Player": "Marlon Mack",
+    "Position": "RB",
+    "Rank": "159",
     "Tier": "7"
   },
   {
-    "Player": "Michael Pittman",
+    "Player": "Nyheim Hines",
+    "Position": "RB",
+    "Rank": "160",
+    "Tier": "6"
+  },
+  {
+    "Player": "Henry Ruggs",
     "Position": "WR",
-    "Rank": "180",
+    "Rank": "161",
+    "Tier": "6"
+  },
+  {
+    "Player": "Tua Tagovalloa",
+    "Position": "QB",
+    "Rank": "162",
+    "Tier": "4"
+  },
+  {
+    "Player": "Derek Carr",
+    "Position": "QB",
+    "Rank": "163",
+    "Tier": "4"
+  },
+  {
+    "Player": "Deshaun Watson",
+    "Position": "QB",
+    "Rank": "164",
+    "Tier": "5"
+  },
+  {
+    "Player": "Justin Fields",
+    "Position": "QB",
+    "Rank": "165",
+    "Tier": "4"
+  },
+  {
+    "Player": "Marquise Brown",
+    "Position": "WR",
+    "Rank": "166",
+    "Tier": "6"
+  },
+  {
+    "Player": "Hunter Henry",
+    "Position": "TE",
+    "Rank": "167",
+    "Tier": "4"
+  },
+  {
+    "Player": "Blake Jarwin",
+    "Position": "TE",
+    "Rank": "168",
+    "Tier": "4"
+  },
+  {
+    "Player": "Mecole Hardman",
+    "Position": "WR",
+    "Rank": "169",
+    "Tier": "6"
+  },
+  {
+    "Player": "Todd Gurley",
+    "Position": "RB",
+    "Rank": "170",
+    "Tier": "9"
+  },
+  {
+    "Player": "Marvin Jones",
+    "Position": "WR",
+    "Rank": "171",
     "Tier": "6"
   },
   {
     "Player": "Sterling Shepard",
     "Position": "WR",
+    "Rank": "172",
+    "Tier": "7"
+  },
+  {
+    "Player": "Sammy Watkins",
+    "Position": "WR",
+    "Rank": "173",
+    "Tier": "8"
+  },
+  {
+    "Player": "Darnell Mooney",
+    "Position": "WR",
+    "Rank": "174",
+    "Tier": "6"
+  },
+  {
+    "Player": "DEN",
+    "Position": "DEF",
+    "Rank": "175",
+    "Tier": "3"
+  },
+  {
+    "Player": "Rhamondre Stevenson",
+    "Position": "RB",
+    "Rank": "176",
+    "Tier": "7"
+  },
+  {
+    "Player": "TY Hilton",
+    "Position": "WR",
+    "Rank": "177",
+    "Tier": "6"
+  },
+  {
+    "Player": "Giovani Bernard",
+    "Position": "RB",
+    "Rank": "178",
+    "Tier": "6"
+  },
+  {
+    "Player": "Darrel Williams",
+    "Position": "RB",
+    "Rank": "179",
+    "Tier": "7"
+  },
+  {
+    "Player": "Jamison Crowder",
+    "Position": "WR",
+    "Rank": "180",
+    "Tier": "7"
+  },
+  {
+    "Player": "Robbie Gould",
+    "Position": "K",
+    "Rank": "999",
+    "Tier": "2"
+  },
+  {
+    "Player": "Chris Boswell",
+    "Position": "K",
+    "Rank": "999",
+    "Tier": "4"
+  },
+  {
+    "Player": "John Brown",
+    "Position": "WR",
     "Rank": "999",
     "Tier": "7"
+  },
+  {
+    "Player": "Sam Darnold",
+    "Position": "QB",
+    "Rank": "999",
+    "Tier": "4"
+  },
+  {
+    "Player": "Latavius Murray",
+    "Position": "RB",
+    "Rank": "999",
+    "Tier": "6"
+  },
+  {
+    "Player": "SEA",
+    "Position": "DEF",
+    "Rank": "999",
+    "Tier": "4"
+  },
+  {
+    "Player": "Michael Pittman",
+    "Position": "WR",
+    "Rank": "999",
+    "Tier": "6"
   },
   {
     "Player": "Pat Freiermuth",
@@ -1095,7 +1131,7 @@
     "Player": "Le'Veon Bell",
     "Position": "RB",
     "Rank": "999",
-    "Tier": "8"
+    "Tier": "9"
   },
   {
     "Player": "NO",
@@ -1113,7 +1149,7 @@
     "Player": "Tim Tebow",
     "Position": "TE",
     "Rank": "999",
-    "Tier": "7"
+    "Tier": "8"
   },
   {
     "Player": "Mason Crosby",
@@ -1155,7 +1191,7 @@
     "Player": "Carson Wentz",
     "Position": "QB",
     "Rank": "999",
-    "Tier": "5"
+    "Tier": "4"
   },
   {
     "Player": "Ryan Fitzpatrick",
@@ -1167,19 +1203,13 @@
     "Player": "Tarik Cohen",
     "Position": "RB",
     "Rank": "999",
-    "Tier": "6"
+    "Tier": "7"
   },
   {
     "Player": "Phillip Lindsay",
     "Position": "RB",
     "Rank": "999",
     "Tier": "6"
-  },
-  {
-    "Player": "Jamison Crowder",
-    "Position": "WR",
-    "Rank": "999",
-    "Tier": "7"
   },
   {
     "Player": "Nelson Agholor",
@@ -1239,13 +1269,7 @@
     "Player": "LAC",
     "Position": "DEF",
     "Rank": "999",
-    "Tier": "3"
-  },
-  {
-    "Player": "DEN",
-    "Position": "DEF",
-    "Rank": "999",
-    "Tier": "3"
+    "Tier": "4"
   },
   {
     "Player": "Matt Prater",
@@ -1291,12 +1315,6 @@
   },
   {
     "Player": "Alexander Mattison",
-    "Position": "RB",
-    "Rank": "999",
-    "Tier": "6"
-  },
-  {
-    "Player": "Giovani Bernard",
     "Position": "RB",
     "Rank": "999",
     "Tier": "6"
@@ -1353,7 +1371,7 @@
     "Player": "Russell Gage",
     "Position": "WR",
     "Rank": "999",
-    "Tier": "7"
+    "Tier": "6"
   },
   {
     "Player": "Elijah Moore",
@@ -1437,19 +1455,19 @@
     "Player": "Hayden Hurst",
     "Position": "TE",
     "Rank": "999",
-    "Tier": "4"
+    "Tier": "5"
   },
   {
     "Player": "Dawon Knox",
     "Position": "TE",
     "Rank": "999",
-    "Tier": "4"
+    "Tier": "5"
   },
   {
     "Player": "OJ Howard",
     "Position": "TE",
     "Rank": "999",
-    "Tier": "4"
+    "Tier": "5"
   },
   {
     "Player": "Brandon McManus",
